@@ -1,2 +1,25 @@
-# Java-Project-Car-Rentral-System
-This Java project manages car details and performs key operations such as adding car information, displaying specifications, and processing related actions. It demonstrates object-oriented programming concepts using classes, objects, and methods while ensuring clean and structured code for easy understanding and reuse.
+# Car Rental System (Java)
+
+A simple **console-based Car Rental System** built in Java.  
+It allows users to rent and return cars, manage inventory, and view rental history.  
+This project demonstrates **Object-Oriented Programming (OOP)** concepts.
+
+---
+
+## 🚀 Features
+- Customer registration and management
+- Car inventory with brand, model, and price
+- Rent and return functionality
+- Rental history tracking
+- Robust error handling
+
+---
+
+## 🛠 Tech Stack
+- Java (Core)
+- OOP (Encapsulation, Inheritance, Polymorphism)
+- Console-based interface
+
+---
+
+
